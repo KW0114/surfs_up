@@ -3,8 +3,8 @@
 ## Overview and Purpose
 
 The purpose of this analysis was to look at the temperatures taken from an island in Hawaii
-during the months of June and December theoughout several years. We wanted to determine if
-running a surf shop in thie location would be sustainable permanently. I queried the 
+during the months of June and December throughout several years. We wanted to determine if
+running a surf shop in this location would be sustainable permanently. I queried the 
 SQLite database filtering on the month of the year, and using the .describe() method
 to find summary stats.
 
